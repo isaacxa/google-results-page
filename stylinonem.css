@@ -1,0 +1,230 @@
+html {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;	
+	height: 100vh;
+}
+
+.content {
+	flex: 1 0 auto;
+	padding: 20px;
+}
+
+ul {
+	border: 1px solid 
+	background-color: #f3f3f3
+}
+
+li {
+	display: inline;
+	float: right;
+	
+
+}
+
+
+
+a {
+	display: block;
+	padding: 8px;
+	color: black;
+	
+}
+
+#locator {visibility: visible; width: 100px; position: absolute; left: 20px; top: 20px;
+	  }
+form.search-bar {
+	position: absolute; visibility: visible; left: 200px; top: 6px; z-index: 200;
+	border-radius: 20px;
+	
+	
+}
+
+label, input {
+	display: table-cell;
+	margin: 15px;
+}
+
+input {
+	width: 500px; 
+}
+
+#sign {	position: absolute; visibility: visible;
+	background-color: #4285f4; display: inline-block; padding: 0 12px; border-radius: 2px;
+	border: #4285f4; font-weight: bold; left: 1800px; top: 20px;
+}
+
+#apps {
+	position: absolute; visibility: visible;
+	left: 1715px; top: 12px;
+}
+
+
+.all {
+	vertical-align: middle;
+	font-size: 13px;
+	padding-right: 30px;
+}
+
+.magnify {
+		height: 12px;
+}
+.pic { 
+	height: 12px;
+}
+
+.images {
+	vertical-align: middle;
+	font-size: 12px;
+	padding-right: 30px;
+}
+
+.tag {
+	height: 12px;
+}
+
+.shopping {
+	vertical-align: middle;
+	font-size: 12px;
+	padding-right: 30px;
+}
+
+.paper {
+	height: 13px;
+}
+
+.news {
+	vertical-align: middle;
+	font-size: 12px;
+	padding-right: 30px;
+}
+
+.play {
+	height: 13px;
+}
+
+.videos {
+	vertical-align: middle;
+	font-size: 12px;
+	padding-right: 30px;
+}
+
+.dots {
+	height: 13px;
+}
+
+.more {
+	vertical-align: middle;
+	font-size: 12px;
+	padding-right: 80px;
+}
+
+.settings {
+	font-size: 12px;
+	padding-right: 30px;
+	vertical-align: middle;
+}
+
+.tools {
+	font-size: 12px;
+	padding-right: 100px;
+	vertical-align: middle;
+}
+
+.smallheader {
+	margin-left: 150px;
+	padding-top: 50px;
+	padding-right: 900px;
+	
+}
+
+hr { 
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	
+}
+
+.about {
+	font-size: 15px;
+	padding-left: 195px;
+	padding-bottom: 30px;
+}
+	
+#results {
+	margin-top: -20px;
+}
+
+.blue {
+	color: blue;
+}
+
+table {
+	border-collapse: collapse;
+	width: 45%;
+	padding-right: 30px;
+}
+
+td, th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+	
+}
+
+.tbl {
+	margin-left: 210px;
+}
+
+
+
+.footer {
+	flex-shrink: 0;
+	padding: 20px;
+	padding-left: 200px;
+	width: 100%
+	visibility: visible;
+	background-color: #E0E0EB;	
+}
+
+.about2 {
+	font-size: 15px;
+	padding-left: 175px;
+	padding-bottom: 30px;
+}
+
+.tbl2 {
+	margin-left: 190px;
+	margin-bottom: 20px;
+	margin-top: -20px;
+	border: none;
+	border-collapse: collapse;
+	
+}
+
+.td2 {
+	border: none;
+	font-size: 12px;
+}
+
+.td3 {
+	border: none;
+	font-size: 15px;
+}
+
+#logo {
+	visibility: visible; position: relative; height: 120px; left: 300px; top: 5px; padding-bottom: 15px;
+	
+	
+}
+
+
+	
+	
+	
+
